@@ -39,8 +39,8 @@ Dashboard Preview
 <img width="1654" height="801" alt="Screenshot 2026-05-03 150549" src="https://github.com/user-attachments/assets/b5c662f8-46be-4f39-a73f-a634d1080d93" />
 
 
-Connect With Me
 
+## Connect with me
 If you like this project, feel free to connect and share feedback!
 
 GitHub: https://github.com/tanishqsolanki7
