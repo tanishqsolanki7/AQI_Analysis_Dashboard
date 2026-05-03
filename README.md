@@ -1,5 +1,6 @@
 # AQI_Analysis_Dashboard
-##Dashboard Overview
+#Dashboard Overview
+
 This dashboard provides a comprehensive view of air quality trends across India, covering state-wise AQI distribution, top pollutant breakdowns, monthly trends, and KPI cards showing the percentage share of each air quality category — from Good to Severe.
 Key Visuals
 
