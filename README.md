@@ -36,12 +36,12 @@ Data Cleaning
 
 Dashboard Preview
 
-(Add your dashboard screenshot here in GitHub repository)
+<img width="1654" height="801" alt="Screenshot 2026-05-03 150549" src="https://github.com/user-attachments/assets/b5c662f8-46be-4f39-a73f-a634d1080d93" />
 
 
 Connect With Me
 
 If you like this project, feel free to connect and share feedback!
 
-GitHub: [Your GitHub Profile Link]
-LinkedIn: [Your LinkedIn Profile Link]
+GitHub: https://github.com/tanishqsolanki7
+LinkedIn: www.linkedin.com/in/tanishq-solanki-4b3920230
