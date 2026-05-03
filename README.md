@@ -6,13 +6,13 @@ The dashboard provides a detailed overview of India’s air quality by analyzing
 
 The objective of this project is to transform raw environmental data into meaningful insights through data cleaning, preprocessing, DAX calculations, and interactive visual storytelling.
 
-Key Features
-State-wise AQI Map Visualization for geographical AQI distribution across India
-Top 10 States with Highest AQI using comparative pollutant breakdown
-Air Quality Volume Distribution by AQI categories
-Monthly AQI Trends for pollutants (PM10, CO, NO2, Ozone, SO2, NH3)
-Pollutant Spread Analysis for contribution comparison
-KPI Cards displaying percentage share of air quality status
+##Key Features
+- State-wise AQI Map Visualization for geographical AQI distribution across India
+- Top 10 States with Highest AQI using comparative pollutant breakdown
+- Air Quality Volume Distribution by AQI categories
+- Monthly AQI Trends for pollutants (PM10, CO, NO2, Ozone, SO2, NH3)
+- Pollutant Spread Analysis for contribution comparison
+- KPI Cards displaying percentage share of air quality status
 
 Data Sources
 Data.gov.in – Official Indian environmental datasets
